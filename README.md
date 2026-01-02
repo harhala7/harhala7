@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi, I’m Przemek
+
+QA Engineer focused on test automation and quality-driven development.
+
+### Tech stack
+Python, pytest, Selenium, Playwright, API testing, GitHub Actions
+
+### Featured projects
+- 🔹 Playwright UI Automation  
+  https://github.com/harhala7/QA_Playwright_Project
+
+- 🔹 API & Contract Testing  
+  https://github.com/harhala7/QA_API_Contracts_Project
+
+- 🔹 Selenium UI Automation  
+  https://github.com/harhala7/QA_Automation_Dev_Project
+
 
 <!--
 **harhala7/harhala7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
